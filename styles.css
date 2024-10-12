@@ -26,6 +26,7 @@ body{
     right: 10px;
 }
 .titulo{
-    text-align: center;
+    justify-content: center;
     margin-top: 3px;
+    position: absolute;
 }
