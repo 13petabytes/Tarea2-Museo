@@ -26,7 +26,6 @@ body{
     right: 10px;
 }
 .titulo{
-    position: fixed;
-    top: 3px;
-    left: 460px;
+    text-align: center;
+    margin-top: 3px;
 }
